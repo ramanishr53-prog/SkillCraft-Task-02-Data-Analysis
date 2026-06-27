@@ -40,4 +40,4 @@ Completed successfully as part of SkillCraft Technology Internship Program, gain
 
 🔗 LinkedIn Project Showcase  
 
-[View My LinkedIn Project Post](paste your linkedin link)
+https://www.linkedin.com/posts/ramanish-r-899837339_dataanalytics-datacleaning-exploratorydataanalysis-activity-7472862950693838848-tVV0?utm_source=share&utm_medium=member_android&rcm=ACoAAFUE1zUBFD5j6SOS3snxY1BTqVj5ZpW1Z8w
